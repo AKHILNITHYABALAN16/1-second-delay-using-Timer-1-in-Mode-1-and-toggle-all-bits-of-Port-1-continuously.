@@ -1,0 +1,1 @@
+# 1-second-delay-using-Timer-1-in-Mode-1-and-toggle-all-bits-of-Port-1-continuously.
