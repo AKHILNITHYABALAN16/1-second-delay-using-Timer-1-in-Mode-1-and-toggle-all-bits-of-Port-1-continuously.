@@ -28,7 +28,8 @@ END
 ```
 
 ## OUTPUT
-<img width="1455" height="730" alt="Screenshot 2025-10-25 084225" src="https://github.com/user-attachments/assets/8cae6ccb-b5c5-4b5a-8a9e-0ea1610a684f" />
+
+![WhatsApp Image 2025-10-28 at 13 09 32_6752222f](https://github.com/user-attachments/assets/ed245dfe-16cb-415d-80e8-0755bc88329f)
 
 ## RESULT
 Thus, an assembly language program in 8051 to generate a 1 second delay using Timer 1 in Mode 1 and toggle all bits of Port 1 continuously is executed successfully using 8051 Keil.
